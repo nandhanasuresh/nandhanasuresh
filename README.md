@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nandhana Suresh
-- 👀 I’m interested in Data Science and Machine Learning
+- 👋 Hey, it's me, Nandhana Suresh
+- 👀 I'm dedicated to enhancing my skills and knowledge in Data Science and Machine Learning
 - 🌱 I’m currently pursuing MSc Data Science from University of Kerala
 - 💞️ I'm actively seeking collaborations on diverse data science projects
 - 📫 You can connect with me on LinkedIn at www.linkedin.com/in/nandhana-suresh-5b11b5252
