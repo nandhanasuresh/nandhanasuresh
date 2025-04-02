@@ -1,8 +1,9 @@
-- 👋 Hey, it's me, Nandhana Suresh
-- 👀 I'm dedicated to enhancing my skills and knowledge in Data Science and Machine Learning
-- 🌱 I’m currently pursuing MSc Data Science from University of Kerala
-- 💞️ I'm actively seeking collaborations on diverse data science projects
-- 📫 You can connect with me on LinkedIn at www.linkedin.com/in/nandhana-suresh-5b11b5252
+- 👋 Hey, I'm Nandhana Suresh!
+- 🚀 AI Engineer at ForceFriction AI | Data Science & AI Enthusiast
+- 👀 Passionate about building AI-powered enterprise solutions and fine-tuning LLMs
+- 💡 Experienced in Generative AI, prompt engineering, and AI automation
+- 💬 Always open to discussions on AI, ML, and NLP!
+- 📫 Connect with me on LinkedIn: www.linkedin.com/in/nandhana-suresh-5b11b5252
 
 <!---
 nandhanasuresh/nandhanasuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
